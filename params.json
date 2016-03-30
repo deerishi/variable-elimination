@@ -1,6 +1,6 @@
 {
   "name": " Variable Elimination For Bayesian Network",
   "tagline": "",
-  "body": "This code implements the Variable ELimination algorithm to do Inference in the following Bayes Net.\r\n ![Bayes Net](https://github.com/deerishi/variable-elimination/blob/master/q3BayesNet.png).\r\n",
+  "body": "This code implements the Variable ELimination algorithm to do Inference in the following Bayes Net.\r\n \r\n ![Bayes Net](https://github.com/deerishi/variable-elimination/blob/master/q3BayesNet.png?raw=true).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
